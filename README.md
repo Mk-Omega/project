@@ -1,3 +1,3 @@
-# Distance Learning Management System (DLMS)
-# for
-# Application Development
+Distance Learning Management System (DLMS)
+for
+Application Development
